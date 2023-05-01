@@ -12,7 +12,7 @@ setup(
     install_requires = [
         "gunicorn==20.0.4",
         "django-validators",
-        "flask==1.1.2",
+        "flask==2.3.2",
     ],
     python_requires='>=3.6',
 )
